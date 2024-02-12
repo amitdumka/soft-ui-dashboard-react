@@ -43,17 +43,17 @@ function Footer() {
                 About Us
               </SoftTypography>
             </SoftBox>
-            <SoftBox mr={{ xs: 0, lg: 3, xl: 6 }}>
+            {/* <SoftBox mr={{ xs: 0, lg: 3, xl: 6 }}>
               <SoftTypography component="a" href="#" variant="body2" color="secondary">
                 Team
               </SoftTypography>
-            </SoftBox>
+            </SoftBox> */}
             <SoftBox mr={{ xs: 2, lg: 3, xl: 6 }}>
               <SoftTypography component="a" href="#" variant="body2" color="secondary">
                 Product
               </SoftTypography>
             </SoftBox>
-            <SoftBox mr={{ xs: 2, lg: 3, xl: 6 }}>
+            {/* <SoftBox mr={{ xs: 2, lg: 3, xl: 6 }}>
               <SoftTypography component="a" href="#" variant="body2" color="secondary">
                 Blog
               </SoftTypography>
@@ -62,10 +62,10 @@ function Footer() {
               <SoftTypography component="a" href="#" variant="body2" color="secondary">
                 Pricing
               </SoftTypography>
-            </SoftBox>
+            </SoftBox> */}
           </SoftBox>
         </Grid>
-        <Grid item xs={12} lg={8}>
+        {/* <Grid item xs={12} lg={8}>
           <SoftBox display="flex" justifyContent="center" mt={1} mb={3}>
             <SoftBox mr={3} color="secondary">
               <FacebookIcon fontSize="small" />
@@ -83,10 +83,10 @@ function Footer() {
               <LinkedInIcon fontSize="small" />
             </SoftBox>
           </SoftBox>
-        </Grid>
+        </Grid> */}
         <Grid item xs={12} lg={8} sx={{ textAlign: "center" }}>
           <SoftTypography variant="body2" color="secondary">
-            Copyright &copy; 2021 Soft by Creative Tim.
+            Copyright &copy; 2024 Amit Kumar (AKS Labs).
           </SoftTypography>
         </Grid>
       </Grid>

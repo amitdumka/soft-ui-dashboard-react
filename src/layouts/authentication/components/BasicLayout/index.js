@@ -36,8 +36,8 @@ function BasicLayout({ title, description, image, children }) {
       <DefaultNavbar
         action={{
           type: "external",
-          route: "https://creative-tim.com/product/soft-ui-dashboard-react",
-          label: "free download",
+          route: "https://www.aprajitaretails.store:7111",
+          label: "Store",
         }}
         transparent
         light

@@ -44,7 +44,7 @@ function SignUp() {
   return (
     <BasicLayout
       title="Welcome!"
-      description="Use these awesome forms to login or create new account in your project for free."
+      description="Aprajita Retails Networks."
       image={curved6}
     >
       <Card>
@@ -53,14 +53,14 @@ function SignUp() {
             Register with
           </SoftTypography>
         </SoftBox>
-        <SoftBox mb={2}>
-          <Socials />
-        </SoftBox>
-        <Separator />
+      
         <SoftBox pt={2} pb={3} px={3}>
           <SoftBox component="form" role="form">
             <SoftBox mb={2}>
               <SoftInput placeholder="Name" />
+            </SoftBox>
+            <SoftBox mb={2}>
+              <SoftInput placeholder="Employee Code(*Optinal)" />
             </SoftBox>
             <SoftBox mb={2}>
               <SoftInput type="email" placeholder="Email" />
