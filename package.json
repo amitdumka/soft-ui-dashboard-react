@@ -1,15 +1,15 @@
 {
-  "name": "soft-ui-dashboard-react",
-  "version": "4.0.1",
-  "author": "Creative Tim",
+  "name": "aprajita-retails-soft-ui-react",
+  "version": "1.0.1",
+  "author": "Amit Kumar",
   "license": "SEE LICENSE IN <https://www.creative-tim.com/license>",
-  "description": "ReactJS version of Aprajita Retails Dashboard by Creative Tim",
+  "description": "ReactJS version of Aprajita Retails Dashboard by Amit Kumar",
   "bugs": {
-    "url": "https://github.com/creativetimofficial/soft-ui-dashboard-react/issues"
+    "url": "https://github.com/amitdumka/soft-ui-dashboard-react/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/soft-ui-dashboard-react.git"
+    "url": "git+https://github.com/dumka/soft-ui-dashboard-react.git"
   },
   "dependencies": {
     "@emotion/cache": "11.11.0",

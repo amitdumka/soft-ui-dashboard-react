@@ -1,6 +1,6 @@
 /**
 =========================================================
-* Aprajita Retails Dashboard React - v4.0.1
+* Aprajita Retails Dashboard - v1.0.1
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/soft-ui-dashboard-react
@@ -18,7 +18,7 @@ import { forwardRef } from "react";
 // prop-types is a library for typechecking of props
 import PropTypes from "prop-types";
 
-// Aprajita Retails Dashboard React components
+// Aprajita Retails Dashboard components
 import SoftTypography from "components/SoftTypography";
 
 // Custom styles for SoftProgress

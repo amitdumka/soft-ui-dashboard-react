@@ -1,6 +1,6 @@
 /**
 =========================================================
-* Aprajita Retails Dashboard React - v3.1.0
+* Aprajita Retails Dashboard - v3.1.0
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/soft-ui-dashboard-pro-react
@@ -14,9 +14,9 @@ Coded by www.creative-tim.com
 */
 
 /**
- * The base colors for the Aprajita Retails Dashboard React.
+ * The base colors for the Aprajita Retails Dashboard.
  * You can add new color using this file.
- * You can customized the colors for the entire Aprajita Retails Dashboard React using thie file.
+ * You can customized the colors for the entire Aprajita Retails Dashboard using thie file.
  */
 
 const colors = {

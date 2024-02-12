@@ -1,6 +1,6 @@
 /**
 =========================================================
-* Aprajita Retails Dashboard React - v1.0.0
+* Aprajita Retails Dashboard - v1.0.0
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/soft-ui-dashboard-pro-react

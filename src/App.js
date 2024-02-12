@@ -1,6 +1,6 @@
 /**
 =========================================================
-* Aprajita Retails Dashboard React - v4.0.1
+* Aprajita Retails Dashboard - v1.0.1
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/soft-ui-dashboard-react
@@ -23,14 +23,14 @@ import { ThemeProvider } from "@mui/material/styles";
 import CssBaseline from "@mui/material/CssBaseline";
 import Icon from "@mui/material/Icon";
 
-// Aprajita Retails Dashboard React components
+// Aprajita Retails Dashboard components
 import SoftBox from "components/SoftBox";
 
-// Aprajita Retails Dashboard React examples
+// Aprajita Retails Dashboard examples
 import Sidenav from "examples/Sidenav";
 import Configurator from "examples/Configurator";
 
-// Aprajita Retails Dashboard React themes
+// Aprajita Retails Dashboard themes
 import theme from "assets/theme";
 import themeRTL from "assets/theme/theme-rtl";
 
@@ -39,10 +39,10 @@ import rtlPlugin from "stylis-plugin-rtl";
 import { CacheProvider } from "@emotion/react";
 import createCache from "@emotion/cache";
 
-// Aprajita Retails Dashboard React routes
+// Aprajita Retails Dashboard routes
 import routes from "routes";
 
-// Aprajita Retails Dashboard React contexts
+// Aprajita Retails Dashboard contexts
 import { useSoftUIController, setMiniSidenav, setOpenConfigurator } from "context";
 
 // Images

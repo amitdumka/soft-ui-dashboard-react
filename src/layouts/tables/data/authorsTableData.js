@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-// Aprajita Retails Dashboard React components
+// Aprajita Retails Dashboard components
 import SoftBox from "components/SoftBox";
 import SoftTypography from "components/SoftTypography";
 import SoftAvatar from "components/SoftAvatar";

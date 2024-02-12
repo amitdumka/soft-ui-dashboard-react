@@ -1,6 +1,6 @@
 /**
 =========================================================
-* Aprajita Retails Dashboard React - v4.0.1
+* Aprajita Retails Dashboard - v1.0.1
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/soft-ui-dashboard-react
@@ -16,14 +16,14 @@ Coded by www.creative-tim.com
 // @mui material components
 import Grid from "@mui/material/Grid";
 
-// Aprajita Retails Dashboard React components
+// Aprajita Retails Dashboard components
 import SoftBox from "components/SoftBox";
 
-// Aprajita Retails Dashboard React components
+// Aprajita Retails Dashboard components
 import MasterCard from "examples/Cards/MasterCard";
 import DefaultInfoCard from "examples/Cards/InfoCards/DefaultInfoCard";
 
-// Aprajita Retails Dashboard React examples
+// Aprajita Retails Dashboard examples
 import DashboardLayout from "examples/LayoutContainers/DashboardLayout";
 import DashboardNavbar from "examples/Navbars/DashboardNavbar";
 import Footer from "examples/Footer";

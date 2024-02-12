@@ -1,6 +1,6 @@
 /**
 =========================================================
-* Aprajita Retails Dashboard React - v3.1.0
+* Aprajita Retails Dashboard - v3.1.0
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/soft-ui-dashboard-pro-react
@@ -14,15 +14,15 @@ Coded by www.creative-tim.com
 */
 
 /**
- * The base border styles for the Aprajita Retails Dashboard React.
+ * The base border styles for the Aprajita Retails Dashboard.
  * You can add new border width, border color or border radius using this file.
- * You can customized the borders value for the entire Aprajita Retails Dashboard React using thie file.
+ * You can customized the borders value for the entire Aprajita Retails Dashboard using thie file.
  */
 
-// Aprajita Retails Dashboard React Base Styles
+// Aprajita Retails Dashboard Base Styles
 import colors from "assets/theme/base/colors";
 
-// Aprajita Retails Dashboard React Helper Functions
+// Aprajita Retails Dashboard Helper Functions
 import pxToRem from "assets/theme/functions/pxToRem";
 
 const { grey } = colors;

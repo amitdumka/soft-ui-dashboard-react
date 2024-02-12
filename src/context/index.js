@@ -1,6 +1,6 @@
 /**
 =========================================================
-* Aprajita Retails Dashboard React - v4.0.1
+* Aprajita Retails Dashboard - v1.0.1
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/soft-ui-dashboard-react
@@ -29,7 +29,7 @@ const SoftUI = createContext(null);
 // Setting custom name for the context which is visible on react dev tools
 SoftUI.displayName = "SoftUIContext";
 
-// Aprajita Retails Dashboard React reducer
+// Aprajita Retails Dashboard reducer
 function reducer(state, action) {
   switch (action.type) {
     case "MINI_SIDENAV": {
@@ -62,7 +62,7 @@ function reducer(state, action) {
   }
 }
 
-// Aprajita Retails Dashboard React context provider
+// Aprajita Retails Dashboard context provider
 function SoftUIControllerProvider({ children }) {
   const initialState = {
     miniSidenav: false,
@@ -82,7 +82,7 @@ function SoftUIControllerProvider({ children }) {
   return <SoftUI.Provider value={value}>{children}</SoftUI.Provider>;
 }
 
-// Aprajita Retails Dashboard React custom hook for using context
+// Aprajita Retails Dashboard custom hook for using context
 function useSoftUIController() {
   const context = useContext(SoftUI);
 

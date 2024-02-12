@@ -1,6 +1,6 @@
 /**
 =========================================================
-* Aprajita Retails Dashboard React - v4.0.1
+* Aprajita Retails Dashboard - v1.0.1
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/soft-ui-dashboard-react
@@ -18,11 +18,11 @@ import { useEffect } from "react";
 import Grid from "@mui/material/Grid";
 import Icon from "@mui/material/Icon";
 
-// Aprajita Retails Dashboard React components
+// Aprajita Retails Dashboard components
 import SoftBox from "components/SoftBox";
 import SoftTypography from "components/SoftTypography";
 
-// Aprajita Retails Dashboard React examples
+// Aprajita Retails Dashboard examples
 import DashboardLayout from "examples/LayoutContainers/DashboardLayout";
 import DashboardNavbar from "examples/Navbars/DashboardNavbar";
 import Footer from "examples/Footer";
@@ -30,7 +30,7 @@ import MiniStatisticsCard from "examples/Cards/StatisticsCards/MiniStatisticsCar
 import ReportsBarChart from "examples/Charts/BarCharts/ReportsBarChart";
 import GradientLineChart from "examples/Charts/LineCharts/GradientLineChart";
 
-// Aprajita Retails Dashboard React base styles
+// Aprajita Retails Dashboard base styles
 import typography from "assets/theme/base/typography";
 
 // RTL layout components
@@ -43,7 +43,7 @@ import OrderOverview from "layouts/rtl/components/OrderOverview";
 import reportsBarChartData from "layouts/rtl/data/reportsBarChartData";
 import gradientLineChartData from "layouts/rtl/data/gradientLineChartData";
 
-// Aprajita Retails Dashboard React contexts
+// Aprajita Retails Dashboard contexts
 import { useSoftUIController, setDirection } from "context";
 
 function RTL() {
