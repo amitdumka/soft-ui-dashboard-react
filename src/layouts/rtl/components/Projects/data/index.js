@@ -1,7 +1,7 @@
 // @mui material components
 import Tooltip from "@mui/material/Tooltip";
 
-// Soft UI Dashboard React components
+// Aprajita Retails Dashboard React components
 import SoftBox from "components/SoftBox";
 import SoftTypography from "components/SoftTypography";
 import SoftAvatar from "components/SoftAvatar";
@@ -55,7 +55,7 @@ export default function data() {
 
     rows: [
       {
-        المشروع: [logoXD, "Soft UI XD الإصدار"],
+        المشروع: [logoXD, "Aprajita Retails XD الإصدار"],
         أعضاء: (
           <SoftBox display="flex" py={1}>
             {avatars([
